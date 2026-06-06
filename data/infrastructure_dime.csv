@@ -1,5 +1,11 @@
 City,Infrastructure_Asset,Design_Capacity_mm,Current_Status,Maintenance_Deficit_Pct
-Marikina,Pumping Station Alpha,100,Fully Operational,0
-Marikina,Pasig-Marikina River Channel,80,Under Maintenance,30
-Pasig,Manggahan Floodway,150,Fully Operational,0
-Cainta,Cainta River Dike Wall,70,Critical Damage,60
+Pasig,Manggahan Floodway,150,Fully Operational,5
+Pasig,Rosario Weir Floodgates,120,Under Maintenance,15
+Pasig,Ilugin Pumping Station,90,Critical Damage,45
+Pasig,Napindan Hydraulic Control Structure,180,Fully Operational,0
+Marikina,PMRCIP Dike (Tumana Section),100,Fully Operational,10
+Marikina,Nangka River Revetment Wall,80,Erosion Detected,35
+Marikina,Provident Village Pumping Station,75,Under Maintenance,25
+Cainta,Cainta River Flood Wall,70,Critical Damage,60
+Cainta,Tapayan Pumping Station,85,Fully Operational,5
+Cainta,Highway 2000 Catch Basin,60,Clogged/Silted,40
