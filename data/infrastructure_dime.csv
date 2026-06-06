@@ -1,0 +1,5 @@
+City,Infrastructure_Asset,Design_Capacity_mm,Current_Status,Maintenance_Deficit_Pct
+Marikina,Pumping Station Alpha,100,Fully Operational,0
+Marikina,Pasig-Marikina River Channel,80,Under Maintenance,30
+Pasig,Manggahan Floodway,150,Fully Operational,0
+Cainta,Cainta River Dike Wall,70,Critical Damage,60
