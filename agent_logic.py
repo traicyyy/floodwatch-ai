@@ -1,9 +1,21 @@
 import os
+from turtle import st
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.tools import tool
 from langgraph.prebuilt import create_react_agent
 from flood_tools import get_live_weather, get_infrastructure_status, get_safety_protocols
+
+# Try Streamlit secrets first (for deployment), 
+# fall back to .env for local development
+try:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+except Exception:
+    from dotenv import load_dotenv
+    load_dotenv()
+
+if not os.getenv("OPENAI_API_KEY"):
+    raise ValueError("OPENAI_API_KEY is not set.")
 
 # Load environment variables from .env file
 load_dotenv()
