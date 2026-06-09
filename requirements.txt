@@ -4,3 +4,6 @@ langchain-openai
 pandas
 requests
 python-dotenv
+plotly
+langchain
+langgraph

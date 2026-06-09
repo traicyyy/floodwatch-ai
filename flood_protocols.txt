@@ -1,0 +1,14 @@
+DALOYINTEL MUNICIPAL FLOOD PROTOCOLS REFERENCE DOCUMENT
+REVISION: 2026.1
+
+[CRITICAL RISK PROTOCOL - LEVEL 4]
+Trigger: Rainfall exceeding design capacity OR infrastructure breach.
+Actions: Mandatory preemptive evacuation. Activate localized siren systems at 15-minute intervals. Deploy response assets to designated low-lying choke points in Marikina Riverbanks, Cainta River walls, and Pasig flood channels.
+
+[HIGH RISK PROTOCOL - LEVEL 3]
+Trigger: Rainfall approaching 80% capacity OR critical infrastructure deficits > 40%.
+Actions: Issue an immediate Flood Advisory via SMS channels. Put rescue teams on standby alert status. Clear drainage channels at major culverts. Prepare public evacuation shelters (Designated Barangay Gymnasiums).
+
+[NORMAL/MEDIUM RISK PROTOCOL - LEVEL 1-2]
+Trigger: Rainfall below 50% capacity AND operational structures.
+Actions: Standard telemetry monitoring, routine pumping tests, and general community situational awareness.
